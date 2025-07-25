@@ -1,4 +1,4 @@
-# 🤖 Debate-A-Bot: Human Values Alignment Explorer
+# 🤖 AltAI: Human Values Alignment Explorer
 
 **Debate-A-Bot** is an interactive Streamlit app designed to explore AI alignment and ethical decision-making. Users select (or write) a debate topic and compare responses from two AI bots: one aligned with human values, and another with a configurable misaligned persona (e.g., goal-focused, profit-driven, or open-source AI). Users can vote on which bot they believe better reflects human values and view live results.
 
